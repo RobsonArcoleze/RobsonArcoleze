@@ -6,7 +6,6 @@
 - 👯 Participando do bootcamp da DevSuperio Spring / React
 - 🤔 Apaixonado por leitura e estudo
 
-
 <div align="center">
   <a href="https://github.com/RobsonArcoleze">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonArcoleze&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
