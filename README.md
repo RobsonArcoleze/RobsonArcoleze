@@ -3,7 +3,7 @@
 
 - 🔭 Trabalho como free no momento, buscando a primeira vaga como dev
 - 🌱 3º Semestre de ADS
-- 👯 Participando do bootcamp da DevSuperio Spring / React
+- 👯 Participando do bootcamp da DevSuperior Spring / React
 - 🤔 Apaixonado por leitura e estudo
 
 <div align="center">
