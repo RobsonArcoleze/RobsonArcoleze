@@ -2,8 +2,11 @@
 
 
 - 🔭 Trabalho como free no momento, buscando a primeira vaga como dev
-- 🌱 3º Semestre de ADS
-- 👯 Participando do bootcamp da DevSuperior Spring / React
+- 🌱 4º Semestre de ADS
+- 👯 Concluido bootcamp da DevSuperior Spring / React
+- 🌱 Concluido Bootcamp Linux Fundamentals da DIO
+- 👯 Cursando Bootcamp de AWS da DIO
+- 💪 Programação na VEIA!
 - 🤔 Apaixonado por leitura e estudo
 
 <div align="center">
