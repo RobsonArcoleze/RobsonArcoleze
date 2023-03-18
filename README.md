@@ -1,4 +1,4 @@
-### Olá sou o Robson Arcoleze, Desenvolvedor Fullstack 👋
+### Olá sou o Robson Arcoleze, Desenvolvedor de software 👋
 
 
 - 🔭 Trabalho como free no momento, buscando a primeira vaga como dev
