@@ -6,6 +6,8 @@
 - 👯 Concluido bootcamp da DevSuperior Spring / React
 - 🌱 Concluido Bootcamp Linux Fundamentals da DIO
 - 👯 Cursando Bootcamp de AWS da DIO
+- 🔭 Cultura DevOps
+- 👯 Código limpo 
 - 💪 Programação na VEIA!
 - 🤔 Apaixonado por leitura e estudo
 
