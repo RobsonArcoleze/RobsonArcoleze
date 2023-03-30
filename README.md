@@ -3,7 +3,7 @@
 
 - 🔭 Trabalho como free no momento, buscando a primeira vaga como dev
 - 🌱 4º Semestre de ADS
-- 👯 Concluido bootcamp da DevSuperior Spring / React
+- 👯 Concluido bootcamp da DevSuperior Spring
 - 🌱 Concluido Bootcamp Linux Fundamentals da DIO
 - 👯 Cursando Bootcamp de AWS da DIO
 - 🔭 Cultura DevOps
