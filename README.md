@@ -1,8 +1,8 @@
 ### Olá sou o Robson Arcoleze, Desenvolvedor de software 👋
 
 
-- 🔭 Estagiário de desenvolvimento na Artesanal Investimentos
-- 🌱 4º Semestre de ADS
+- 🔭 Desenvolvedor Full Stack na Multi Portal
+- 🌱 5º Semestre de ADS
 - 👯 Concluido bootcamp da DevSuperior Spring
 - 🌱 Concluido Bootcamp Linux Fundamentals da DIO
 - 👯 Cursando Bootcamp de AWS da DIO
