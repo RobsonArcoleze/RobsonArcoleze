@@ -2,14 +2,11 @@
 
 
 - 🔭 Desenvolvedor Full Stack na Multi Portal
-- 🌱 5º Semestre de ADS
-- 👯 Concluido bootcamp da DevSuperior Spring
-- 🌱 Concluido Bootcamp Linux Fundamentals da DIO
-- 👯 Cursando Bootcamp de AWS da DIO
+- 🌱 Pós graduando em Arquitetura de Software na FIAP
 - 🔭 Cultura DevOps
 - 👯 Código limpo 
 - 💪 Programação na VEIA!
-- 🤔 Apaixonado por leitura e estudo
+- 🤔 Apaixonado por leitura
 
 <div align="center">
   <a href="https://github.com/RobsonArcoleze">
