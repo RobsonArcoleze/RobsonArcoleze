@@ -12,7 +12,6 @@
 - 🔭 Cultura DevOps
 - 👯 Código limpo 
 - 💪 Programação na VEIA!
-- 🤔 Apaixonado por leitura
 
 
 ## Skills
