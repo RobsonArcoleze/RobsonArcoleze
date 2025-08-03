@@ -8,7 +8,7 @@
 
 
 - 🔭 Desenvolvedor Full Stack
-- 🌱 Pós graduando em Arquitetura de Software na FIAP
+- 🌱 Pós graduado em Arquitetura de Software na FIAP
 - 🔭 Cultura DevOps
 - 👯 Código limpo 
 - 💪 Programação na VEIA!
